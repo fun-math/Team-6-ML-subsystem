@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1imAlxk4WJhky2T06ANjkfoIGZY7vl8zX?usp=sha
 Link to numpy arrays of images stored in .npy (easy to load and apply the model on)-
 https://drive.google.com/drive/folders/1deNr7eN1qDWU-XvAQGWtSZn6meE_WHre?usp=sharing
 
-This repo currently has the colab notebook of model1a which is a shapes classifier and model 1b which is a colour classifier. It also has some keras models with the naming convetion model<task>_<accuracy>.h5
+This repo currently has the colab notebook of model1a which is a shapes classifier and model 1b which is a colour classifier. It also has some keras models with the naming convetion model{task}_{accuracy}.h5
 
 Caution : Recently I changed the distribution between test and valid datasets so model1a_9891.h5 may give higher accuracy on the current validation dataset (former part of train set).
 
