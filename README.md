@@ -24,8 +24,8 @@ Link to [numpy arrays](https://drive.google.com/drive/folders/1deNr7eN1qDWU-XvAQ
 1. Complete code which is present as **model{task}.ipynb**
 1. Keras models trained from scratch which are abbreviated as **model{task}_{accuracy}.h5**.
 1. Some images and videos to try this model.
-1. Python files abbreviated as **ml_{task_name}.py**.
-1. Tasks 1 and 2 can also be easily done using OpenCV and the file for the same is present as **cvshapes.py**.
+1. Python files abbreviated as **ml_{task_name}.py** which can be used to test the model on few images.
+1. Tasks 1 and 2 can also be easily and efficiently done using OpenCV and the file for the same is present as **cvshapes.py**.
 1. You can also find a ROS script and if it runs fine on ROS python2 then please contact me (xD)!
 
 ## Usage 
